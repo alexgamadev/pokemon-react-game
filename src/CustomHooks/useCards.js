@@ -1,6 +1,5 @@
 const useCards = () => {
     const loadCards = async (species, loadSpeciesData) => {
-        console.log(species);
         const cards = await Promise.all(species.map(async (pokemon) => {
             const speciesData = await loadSpeciesData(pokemon.name);
             const pokemonData = await loadPokemonData(speciesData.varieties[0].pokemon.name);
