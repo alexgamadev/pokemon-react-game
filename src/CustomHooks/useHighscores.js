@@ -8,7 +8,6 @@ const useHighscores = () => {
 
     const getHighscore = (generation) => {
         const highscore = window.localStorage.getItem(generation);
-        console.log("HIGHSCORE", highscore);
         if(highscore > 0) {
             return highscore;
         } else {

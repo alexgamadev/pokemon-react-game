@@ -72,7 +72,6 @@ const useGame = () => {
             
             //Load display list
             setDisplayList(shiftCards(4));
-            console.log("DISPLAY", displayList);
 
             //Load new elements from unselected to buffer
             if(displayList?.length >= 4)
@@ -89,8 +88,6 @@ const useGame = () => {
         setIsStarted(true);
         refreshSpecies(generationData, selectedGen);
     }
-
-    console.log("Buffer", buffer);
 
     const resetGame = (score = null) => {
         //Clear buffer
