@@ -1,0 +1,13 @@
+
+.card {
+    box-shadow: 0px 5px 10px #333 !important;
+}
+.card:hover {
+    /*transform: scale(1.2);*/
+    cursor: pointer !important;
+    box-shadow: 0px 10px 20px #333 !important;
+}
+
+.margin {
+    margin: 50px 0px !important;
+}

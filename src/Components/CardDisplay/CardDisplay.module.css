@@ -1,0 +1,15 @@
+.hidden {
+    opacity: 0;
+    pointer-events:none;
+}
+
+.cardsDisplay {
+    display: flex;
+    gap: 50px;
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.displayContainer {
+    display: grid;
+}
