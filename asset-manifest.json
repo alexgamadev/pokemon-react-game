@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/pokemon-react-game/static/css/main.2abb3ad4.chunk.css",
-    "main.js": "/pokemon-react-game/static/js/main.89afd59b.chunk.js",
-    "main.js.map": "/pokemon-react-game/static/js/main.89afd59b.chunk.js.map",
-    "runtime-main.js": "/pokemon-react-game/static/js/runtime-main.e62bc07c.js",
-    "runtime-main.js.map": "/pokemon-react-game/static/js/runtime-main.e62bc07c.js.map",
+    "main.js": "/pokemon-react-game/static/js/main.696bcfe1.chunk.js",
+    "main.js.map": "/pokemon-react-game/static/js/main.696bcfe1.chunk.js.map",
+    "runtime-main.js": "/pokemon-react-game/static/js/runtime-main.50fbdb1f.js",
+    "runtime-main.js.map": "/pokemon-react-game/static/js/runtime-main.50fbdb1f.js.map",
     "static/css/2.bdc51257.chunk.css": "/pokemon-react-game/static/css/2.bdc51257.chunk.css",
-    "static/js/2.66c3e007.chunk.js": "/pokemon-react-game/static/js/2.66c3e007.chunk.js",
-    "static/js/2.66c3e007.chunk.js.map": "/pokemon-react-game/static/js/2.66c3e007.chunk.js.map",
+    "static/js/2.f2146c28.chunk.js": "/pokemon-react-game/static/js/2.f2146c28.chunk.js",
+    "static/js/2.f2146c28.chunk.js.map": "/pokemon-react-game/static/js/2.f2146c28.chunk.js.map",
     "index.html": "/pokemon-react-game/index.html",
     "static/css/2.bdc51257.chunk.css.map": "/pokemon-react-game/static/css/2.bdc51257.chunk.css.map",
     "static/css/main.2abb3ad4.chunk.css.map": "/pokemon-react-game/static/css/main.2abb3ad4.chunk.css.map",
-    "static/js/2.66c3e007.chunk.js.LICENSE.txt": "/pokemon-react-game/static/js/2.66c3e007.chunk.js.LICENSE.txt",
+    "static/js/2.f2146c28.chunk.js.LICENSE.txt": "/pokemon-react-game/static/js/2.f2146c28.chunk.js.LICENSE.txt",
     "static/media/Alola.3cc9cbf5.svg": "/pokemon-react-game/static/media/Alola.3cc9cbf5.svg",
     "static/media/Galar.77ca1589.svg": "/pokemon-react-game/static/media/Galar.77ca1589.svg",
     "static/media/Hoenn.58ffaee0.svg": "/pokemon-react-game/static/media/Hoenn.58ffaee0.svg",
@@ -41,10 +41,10 @@
     "static/media/water.b6d13329.svg": "/pokemon-react-game/static/media/water.b6d13329.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e62bc07c.js",
+    "static/js/runtime-main.50fbdb1f.js",
     "static/css/2.bdc51257.chunk.css",
-    "static/js/2.66c3e007.chunk.js",
+    "static/js/2.f2146c28.chunk.js",
     "static/css/main.2abb3ad4.chunk.css",
-    "static/js/main.89afd59b.chunk.js"
+    "static/js/main.696bcfe1.chunk.js"
   ]
 }
