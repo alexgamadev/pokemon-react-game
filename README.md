@@ -1,4 +1,4 @@
-#TODO (Time permitted)
+## TODO (Time permitted)
 - UseEffect cleanup functions for API calls
 - Reorganise code to better seperate concerns
 - Add reducers to clean up amount of seperate states
