@@ -1,4 +1,4 @@
-## Pokemon Memory Game
+### Pokemon Memory Game
 A website made for TheOdinProject "Memory Card" chapter for React. The basic game has the player select a generation and the fetches the data for all the species of pokemon from that generation. The player then has to select the pokemon cards and attempt not to select a card they have previously selected. The project uses Semantic UI for certain stylings, the npm package @brainhubeu/react-carousel for the level select carousel and custom CSS styling used via CSS modules. The project was made without responsiveness in mind and therefore has only been tested on my desktop at 1080p. As much as I would have liked to spent a lot longer on the project to better write the code, make it responsive and test for any bugs, I figured it'd be better to take anything I've learnt from this project and apply to future projects. The biggest thing to take from this project for me has been to plan out upcoming projects in a lot more detail before starting to avoid getting caught up in easily avoidable problems.
 
 ## Pitfalls (and solutions)
